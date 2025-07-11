@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "d3047d5f7f28fd72",
@@ -168,9 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa92edcfe1673215",
+  "active": "fd15484c75df663d",
   "lastOpenFiles": [
+    "books/index.md",
     "about.md",
-    "README.md"
+    "books/book 1.md",
+    "books/book 2.md",
+    "books/book 3.md",
+    "README.md",
+    "books"
   ]
 }
