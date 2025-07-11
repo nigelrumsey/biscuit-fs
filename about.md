@@ -1,6 +1,21 @@
-# About
-About Broken Biscuits.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin viverra lorem ut efficitur convallis. Pellentesque at justo pharetra, ullamcorper mauris sed, rutrum neque. Vivamus a eros blandit, vehicula odio vitae, tempus sapien. Curabitur malesuada eu tellus non aliquam. Sed nisl enim, fringilla non fermentum eget, cursus at arcu. Maecenas orci ex, fermentum ac interdum at, accumsan sed magna. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+# Hello
 
-Ut malesuada elit ut lacus ornare cursus. Fusce sit amet magna purus. Nulla facilisi. Phasellus tincidunt arcu ut laoreet commodo. Pellentesque cursus vehicula erat, non elementum lectus lacinia eu. Nam a convallis arcu, eu feugiat purus. Maecenas hendrerit sollicitudin hendrerit. Vivamus eros magna, vestibulum non commodo id, venenatis non eros. Donec placerat, nisl ac tristique commodo, libero turpis ultricies risus, ac interdum odio felis a nulla. Vivamus non felis facilisis, auctor tortor ut, vehicula lectus. Etiam auctor, erat id facilisis tempus, velit elit feugiat ligula, quis varius metus arcu vitae est. Suspendisse in enim vitae lorem semper lobortis a vel mauris. Fusce a sollicitudin risus. Vivamus bibendum neque sed nulla convallis, et elementum felis tincidunt. Ut maximus ipsum eget volutpat congue. Nunc cursus diam nec nisi tempor, a suscipit eros facilisis.
+Welcome to Broken Biscuits.
 
+I'm interested in journalism, photojournalism, architecture, art and cinema. I've been looking for somewhere to write about some of these things. The site is new as of April 2025, so there may not be much to see here yet.
+
+For some time, I've been self-studying Documentary Photography, more recently concentrating on Conflict Photography and its representation in the media. Currently, there's no end point. I'm interested in the future of news and photojournalism and this sits beautifully in the intersection of that Venn diagram.
+
+I'd also like to share a little about some difficulty I'm having with the antidepressants I take for anxiety and depression, currently that is Amitriptyline and Fluoxetine (Prozac) – [[My Head Hurts 1]].
+
+None of the posts here are necessarily 'finished'. Think of it more as my thoughts at the time of writing. I aim to revisit and update them often.
+
+This site is made and published with [Obsidian](https://obsidian.md/). I'm new to it, but enjoying feeling my way so far.
+
+This site **does not** collect visitor data, store cookies, analytics, or host ads. If you don't say 'Hi' I'll never know you were here.
+
+Nigel
+
+bknbiscuit@gmail.com
+
+[Bluesky](https://bsky.app/profile/bknbiscuit.bsky.social)
