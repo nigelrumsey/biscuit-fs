@@ -1,5 +1,7 @@
 # Hello
 
+Updated for new branch
+
 Welcome to Broken Biscuits.
 
 I'm interested in journalism, photojournalism, architecture, art and cinema. I've been looking for somewhere to write about some of these things. The site is new as of April 2025, so there may not be much to see here yet.
